@@ -1,0 +1,25 @@
+{
+  "characters": [
+    {
+      "id": 2,
+      "name": "min",
+      "occupation": "god",
+      "weapon": "wisdom",
+      "isAcartoon": false
+    },
+    {
+      "name": "1",
+      "occupation": "2",
+      "weapon": "3",
+      "isAcartoon": false,
+      "id": 3
+    },
+    {
+      "name": "marvin",
+      "occupation": "stoner",
+      "weapon": "eye contact",
+      "isAcartoon": false,
+      "id": 4
+    }
+  ]
+}
